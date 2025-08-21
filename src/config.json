@@ -1,0 +1,5 @@
+{
+  "api_provider": "groq",
+  "api_key": "your_groq_api_key_here",
+  "model": "llama3-8b-8192"
+}
