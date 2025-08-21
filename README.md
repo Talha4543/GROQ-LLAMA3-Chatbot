@@ -1,4 +1,5 @@
 **Groq LLAMA3**
+![image alt](
 ---------------
 
 This is a simple chatbot built with Streamlit and powered by Groq’s LLaMA-3 models (llama3-8b-8192, llama3-70b-8192). It was originally made for OpenAI’s GPT models but later updated to use the Groq API, which is faster and free to start.
@@ -8,3 +9,4 @@ The app provides an interactive chatbot interface in the browser using Streamlit
 To use it, you need to install the dependencies, set up a Groq API key in a config.json file, and then run the Streamlit app. Once running, you can ask questions like “Who is Jon Snow in Game of Thrones?” and get direct answers from the LLaMA-3 model.
 
 **Clone Repsoitory:**[**https://github.com/Talha4543/GROQ-LLAMA3-Chatbot.git**](https://github.com/Talha4543/GROQ-LLAMA3-Chatbot.git)
+
